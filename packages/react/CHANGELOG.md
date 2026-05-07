@@ -1,5 +1,14 @@
 # @cofhe/react
 
+## 0.5.3
+
+### Patch Changes
+
+- bf23270: Upgrade `zustand` to 5.0.13 to pick up the upstream persist storage fix used by the SDK and React package.
+- Updated dependencies [bf23270]
+  - @cofhe/sdk@0.5.3
+  - @cofhe/abi@0.5.3
+
 ## 0.5.2
 
 ### Patch Changes
